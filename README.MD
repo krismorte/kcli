@@ -1,6 +1,6 @@
 # k-cli
 
-The main object here is build a personal CLI to help the developer's life :D
+The main goal here is build a personal CLI to help the developer's life :D
 
 ## Build the CLI
 
