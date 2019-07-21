@@ -10,7 +10,7 @@ The main goal here is build a personal CLI to help the developer's life :D
 
 `sudo mv kcli  /usr/bin/`
 
-## Hot to use
+## How to use
 
 Creating repositories in Github and Bitbucket
 
@@ -22,7 +22,7 @@ Creating repositories in Github and Bitbucket
 
 `kcli repo bitbucket new -n <MY_REPO>`
 
-##TODO
+## TODO
 
 | Provider        | Action           | Status  |
 | ------------- |:-------------:| -----:|
