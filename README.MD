@@ -8,17 +8,17 @@ The main goal here is build a personal CLI to help the developer's life :D
 
 `go build -o kcli main.go`
 
-`sudo mv kcli  /usr/bin/`
+`sudo chmod +x  kcli && mv kcli  /usr/bin/`
 
 ## How to use
 
 Creating repositories in Github and Bitbucket
 
-`kcli repo github cont -t <YOUR_GITHUB_TOKEN>`
+`kcli repo github conf -t <YOUR_GITHUB_TOKEN>`
 
 `kcli repo github new -n <MY_REPO>`
 
-`kcli repo bitbucket cont -u <YOUR_BITBUCKET_USER> -p <YOUR_BITBUCKET_PASS>`
+`kcli repo bitbucket conf -u <YOUR_BITBUCKET_USER> -p <YOUR_BITBUCKET_PASS>`
 
 `kcli repo bitbucket new -n <MY_REPO>`
 
